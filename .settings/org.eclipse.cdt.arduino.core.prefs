@@ -1,0 +1,2 @@
+eclipse.preferences.version=1
+libraries=["Low-Power","DallasTemperature","OneWire","OneButton",{"package"\:"arduino","platform"\:"avr","library"\:"Wire"},{"package"\:"arduino","platform"\:"avr","library"\:"SPI"}]
